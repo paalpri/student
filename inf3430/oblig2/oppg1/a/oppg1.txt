@@ -1,0 +1,6 @@
+Oppgave 1a: the xor method has the shortest delay, partly because it uses half the number of gates as the other.
+			and an xor is in generally faster then a mux. 
+			considering the synthesized schematics in vivado, it is clear that the xor is part of 3 LUTs, while the not method is part of 5.
+			therefor the consumption of LUTs is way greater in the NOT method then in the xor.
+		
+		

@@ -1,0 +1,274 @@
+m255
+K3
+13
+cModel Technology
+dC:\questasim64_10.1d\examples
+Ecounter
+Z0 w1475240111
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dM:\student\inf3430\oblig2\oppg3
+Z5 8M:/student/inf3430/oblig2/src/counter.vhd
+Z6 FM:/student/inf3430/oblig2/src/counter.vhd
+l0
+L5
+VWQRj]<4=S7K3KW?=OzU_S3
+Z7 OL;C;10.1d;51
+32
+Z8 !s108 1475240948.997000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/src/counter.vhd|
+Z10 !s107 M:/student/inf3430/oblig2/src/counter.vhd|
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+!s100 _lFA]gzQdPI=S0acg^Heo2
+!i10b 1
+Abeh
+R1
+R2
+R3
+DEx4 work 7 counter 0 22 WQRj]<4=S7K3KW?=OzU_S3
+l17
+L15
+VWF]=91CRWn;gQYK=APh@?1
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 :?6aC`CXEa4alO61l`IW;3
+!i10b 1
+Edecoder
+Z13 w1475240395
+R1
+R2
+R3
+R4
+Z14 8M:/student/inf3430/oblig2/src/decoder.vhd
+Z15 FM:/student/inf3430/oblig2/src/decoder.vhd
+l0
+L5
+V49TcQHMYZ3R98cf<h?k4=0
+R7
+32
+Z16 !s108 1475240949.467000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/src/decoder.vhd|
+Z18 !s107 M:/student/inf3430/oblig2/src/decoder.vhd|
+R11
+R12
+!s100 `ii^PKI_oXMKRS<`Zk64n1
+!i10b 1
+Abeh
+R1
+R2
+R3
+DEx4 work 7 decoder 0 22 49TcQHMYZ3R98cf<h?k4=0
+l16
+L14
+VkUldj:0i?iBT]i3OCXO3S0
+!s100 ?FS<4Fe;O_R@^cz3Jno`E2
+R7
+32
+R16
+R17
+R18
+R11
+R12
+!i10b 1
+Efirst
+Z19 w1475239640
+R1
+R2
+R3
+R4
+R5
+R6
+l0
+L5
+VcFG:HgDe`b2Lmn>QV_f7S1
+R7
+32
+Z20 !s108 1475240034.279000
+R9
+R10
+R11
+R12
+!s100 aQdR<P>ecik=PNz0iY0gz2
+!i10b 1
+Amy_first_arch
+R1
+R2
+R3
+DEx4 work 5 first 0 22 cFG:HgDe`b2Lmn>QV_f7S1
+l17
+L15
+VRWnZ>MQ3;XYEbzNaV1KQ_0
+R7
+32
+R20
+R9
+R10
+R11
+R12
+!s100 S1zh@L@QE[I@h`@mM^6A32
+!i10b 1
+Pseg7_pkg
+R1
+R2
+R3
+w1475234803
+R4
+8M:/student/inf3430/oblig2/src/seg7_pkg.vhd
+FM:/student/inf3430/oblig2/src/seg7_pkg.vhd
+l0
+L5
+V:T3<7Io?;[Um;3G=ZX`GW0
+R7
+32
+b1
+R11
+R12
+!s100 4`<YkoUHnmlN=4e8WoHGS0
+!i10b 1
+!s108 1475240946.537000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/src/seg7_pkg.vhd|
+!s107 M:/student/inf3430/oblig2/src/seg7_pkg.vhd|
+Bbody
+Z21 DPx4 work 8 seg7_pkg 0 22 :T3<7Io?;[Um;3G=ZX`GW0
+R1
+R2
+R3
+32
+w1475237550
+8M:/student/inf3430/oblig2/src/seg7_bdy.vhd
+FM:/student/inf3430/oblig2/src/seg7_bdy.vhd
+l0
+L6
+VTdjmEiZEKH_bg231MHh6n2
+R7
+R11
+R12
+nbody
+!s100 Qk6^_?M^^Q8C;C26NEiea1
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/src/seg7_bdy.vhd|
+!i10b 1
+!s108 1475240946.137000
+!s107 M:/student/inf3430/oblig2/src/seg7_bdy.vhd|
+Eseg7ctrl
+w1475234137
+R1
+R2
+R3
+R4
+8M:/student/inf3430/oblig2/src/seg7ctrl_ent.vhd
+FM:/student/inf3430/oblig2/src/seg7ctrl_ent.vhd
+l0
+L5
+VOd=ZO?>j[YzYOK?mC76[=0
+R7
+32
+R11
+R12
+!s100 710ZOm82GG7N9OdYE25UL2
+!i10b 1
+!s108 1475240947.257000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/src/seg7ctrl_ent.vhd|
+!s107 M:/student/inf3430/oblig2/src/seg7ctrl_ent.vhd|
+Abeh
+w1475240856
+DEx4 work 8 seg7ctrl 0 22 Od=ZO?>j[YzYOK?mC76[=0
+R1
+R21
+R2
+R3
+8M:/student/inf3430/oblig2/src/seg7ctrl_beh.vhd
+FM:/student/inf3430/oblig2/src/seg7ctrl_beh.vhd
+l31
+L6
+V3nP6?57PO;gTegn`VkZHh1
+R7
+32
+R11
+R12
+!s100 W>l`jzlUmjSfImd6?Ioea1
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/src/seg7ctrl_beh.vhd|
+!i10b 1
+!s108 1475240946.917000
+!s107 M:/student/inf3430/oblig2/src/seg7ctrl_beh.vhd|
+Eseg7model
+w1474620395
+R2
+R3
+R4
+8M:/student/inf3430/oblig2/src/seg7model_ent.vhd
+FM:/student/inf3430/oblig2/src/seg7model_ent.vhd
+l0
+L9
+VShf^C<U<SeR:n<_cGQYT72
+R7
+32
+R11
+R12
+!s100 ^IHez693@@8ZJ:zkEZ=Mc0
+!i10b 1
+!s108 1475240947.957000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/src/seg7model_ent.vhd|
+!s107 M:/student/inf3430/oblig2/src/seg7model_ent.vhd|
+Abeh
+w1474977443
+DEx4 work 9 seg7model 0 22 Shf^C<U<SeR:n<_cGQYT72
+R2
+R3
+8M:/student/inf3430/oblig2/src/seg7model_beh.vhd
+FM:/student/inf3430/oblig2/src/seg7model_beh.vhd
+l11
+L9
+V1Lead:MDXKWec=;84Ed3A3
+R7
+32
+R11
+R12
+!s100 7H[be8QJ>kCI1=D2D[UgO2
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/src/seg7model_beh.vhd|
+!i10b 1
+!s108 1475240947.617000
+!s107 M:/student/inf3430/oblig2/src/seg7model_beh.vhd|
+Etb_seg7model
+Z22 w1475240941
+R1
+R2
+R3
+R4
+Z23 8M:/student/inf3430/oblig2/src/tb_seg7model.vhd
+Z24 FM:/student/inf3430/oblig2/src/tb_seg7model.vhd
+l0
+L6
+V3AdZCKcSK08kQfLn4WKkO0
+R7
+32
+Z25 !s108 1475240948.427000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/src/tb_seg7model.vhd|
+Z27 !s107 M:/student/inf3430/oblig2/src/tb_seg7model.vhd|
+R11
+R12
+!s100 PE:SeJ_;DK>kUd@2g?1ci3
+!i10b 1
+Atestbench
+R1
+R2
+R3
+DEx4 work 12 tb_seg7model 0 22 3AdZCKcSK08kQfLn4WKkO0
+l53
+L9
+Vd0Z26kTTYEYNT^61XP0P80
+R7
+32
+R25
+R26
+R27
+R11
+R12
+!s100 `jWJCU;15_3RbiKXcN_n61
+!i10b 1

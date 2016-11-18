@@ -1,0 +1,8 @@
+spørsmål 1: spør om hvordan det er å ha sockets som globale variabler og generelt globale variabler,
+            er dette lurt eller bedre å sende ting til funksjonene
+
+spørsmål 2: har jeg for mange funksjoner ? skal jeg ha mer i main metoden ?
+
+spørsmål 3: er det best å sende all info om job i en char, eller som 3 forskjellige send()
+
+

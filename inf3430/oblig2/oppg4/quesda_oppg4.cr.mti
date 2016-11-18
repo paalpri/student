@@ -1,0 +1,127 @@
+M:/student/inf3430/oblig2/src/seg7ctrl_beh.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/seg7ctrl_beh.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package seg7_pkg
+-- Compiling architecture beh of seg7ctrl
+-- Loading entity seg7ctrl
+
+} {} {}} M:/student/inf3430/oblig2/src/seg7ctrl_ent.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/seg7ctrl_ent.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity seg7ctrl
+
+} {} {}} M:/student/inf3430/oblig2/src/regctrl_rtl.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/regctrl_rtl.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package seg7_pkg
+-- Compiling architecture rtl of regctrl
+-- Loading entity regctrl
+
+} {} {}} M:/student/inf3430/oblig2/src/decoder.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/decoder.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity decoder
+-- Compiling architecture beh of decoder
+
+} {} {}} M:/student/inf3430/oblig2/src/slowclock_ent.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/slowclock_ent.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity slowclock
+
+} {} {}} M:/student/inf3430/oblig2/src/regs_ent.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/regs_ent.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity regs
+
+} {} {}} M:/student/inf3430/oblig2/src/seg7_pkg.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/seg7_pkg.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package seg7_pkg
+
+} {} {}} M:/student/inf3430/oblig2/src/counter.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/counter.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter
+-- Compiling architecture beh of counter
+
+} {} {}} M:/student/inf3430/oblig2/src/regctrl_ent.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/regctrl_ent.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity regctrl
+
+} {} {}} M:/student/inf3430/oblig2/src/regs_str.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/regs_str.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture str of regs
+-- Loading entity regs
+
+} {} {}} M:/student/inf3430/oblig2/src/sloclock_rtl.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/sloclock_rtl.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading entity slowclock
+-- Compiling architecture rtl of slowclock
+
+} {} {}} M:/student/inf3430/oblig2/src/tb_excersise4.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/tb_excersise4.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_excersice4
+-- Compiling architecture testbench of tb_excersice4
+
+} {} {}} M:/student/inf3430/oblig2/src/seg7_bdy.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/seg7_bdy.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package body seg7_pkg
+-- Loading package seg7_pkg
+
+} {} {}} M:/student/inf3430/oblig2/src/seg7model_beh.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/seg7model_beh.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture beh of seg7model
+-- Loading entity seg7model
+
+} {} {}} M:/student/inf3430/oblig2/src/seg7model_ent.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig2/src/seg7model_ent.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity seg7model
+
+} {} {}}

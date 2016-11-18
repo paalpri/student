@@ -1,0 +1,395 @@
+m255
+K3
+13
+cModel Technology
+dC:\questasim64_10.1d\examples
+Eclock
+w1475748707
+Z0 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z1 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z2 dM:\student\inf3430\oblig2\oppg5
+8M:/student/inf3430/oblig2/oppg5/clock_ent.vhd
+FM:/student/inf3430/oblig2/oppg5/clock_ent.vhd
+l0
+L4
+V1TaEl>c11kMVj]dIeFb2T1
+Z3 OL;C;10.1d;51
+32
+Z4 o-work work -2002 -explicit
+Z5 tExplicit 1
+!s100 g=UfJd[P;fH?1_[4Yza7e3
+!i10b 1
+!s108 1475769724.740000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/clock_ent.vhd|
+!s107 M:/student/inf3430/oblig2/oppg5/clock_ent.vhd|
+Astr
+w1475762494
+DEx4 work 5 clock 0 22 1TaEl>c11kMVj]dIeFb2T1
+Z6 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+R1
+8M:/student/inf3430/oblig2/oppg5/clock_rtl.vhd
+FM:/student/inf3430/oblig2/oppg5/clock_rtl.vhd
+l44
+L4
+Vh9ikQ9IZJVJ8COe>e5:KV1
+R3
+32
+R4
+R5
+!s100 ILGFk=FF`kkJYR3EPR<e63
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/clock_rtl.vhd|
+!i10b 1
+!s108 1475769725.067000
+!s107 M:/student/inf3430/oblig2/oppg5/clock_rtl.vhd|
+Ecounter
+Z7 w1475757509
+Z8 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R6
+R1
+R2
+Z9 8M:/student/inf3430/oblig2/oppg5/counter.vhd
+Z10 FM:/student/inf3430/oblig2/oppg5/counter.vhd
+l0
+L5
+VWQRj]<4=S7K3KW?=OzU_S3
+R3
+32
+Z11 !s108 1475769725.426000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/counter.vhd|
+Z13 !s107 M:/student/inf3430/oblig2/oppg5/counter.vhd|
+R4
+R5
+!s100 _lFA]gzQdPI=S0acg^Heo2
+!i10b 1
+Abeh
+R8
+R6
+R1
+DEx4 work 7 counter 0 22 WQRj]<4=S7K3KW?=OzU_S3
+l19
+L15
+VebnaT7g24ocBE6]8j0<ia2
+R3
+32
+R11
+R12
+R13
+R4
+R5
+!s100 eTZ<J1j1;L58d6lZJM4^G3
+!i10b 1
+Edecoder
+Z14 w1475757276
+R8
+R6
+R1
+R2
+Z15 8M:/student/inf3430/oblig2/oppg5/decoder.vhd
+Z16 FM:/student/inf3430/oblig2/oppg5/decoder.vhd
+l0
+L5
+V49TcQHMYZ3R98cf<h?k4=0
+R3
+32
+Z17 !s108 1475769725.894000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/decoder.vhd|
+Z19 !s107 M:/student/inf3430/oblig2/oppg5/decoder.vhd|
+R4
+R5
+!s100 `ii^PKI_oXMKRS<`Zk64n1
+!i10b 1
+Abeh
+R8
+R6
+R1
+DEx4 work 7 decoder 0 22 49TcQHMYZ3R98cf<h?k4=0
+l16
+L14
+VkUldj:0i?iBT]i3OCXO3S0
+R3
+32
+R17
+R18
+R19
+R4
+R5
+!s100 ?FS<4Fe;O_R@^cz3Jno`E2
+!i10b 1
+Eregctrl
+w1475751032
+R6
+R1
+R2
+8M:/student/inf3430/oblig2/oppg5/regctrl_ent.vhd
+FM:/student/inf3430/oblig2/oppg5/regctrl_ent.vhd
+l0
+L5
+VNH_OhX3e;FXV_D?5hfVmz1
+R3
+32
+R4
+R5
+!s100 lNDY3Ia8OGOU>ATa957An1
+!i10b 1
+!s108 1475769726.331000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/regctrl_ent.vhd|
+!s107 M:/student/inf3430/oblig2/oppg5/regctrl_ent.vhd|
+Artl
+w1475769752
+DEx4 work 7 regctrl 0 22 NH_OhX3e;FXV_D?5hfVmz1
+Z20 DPx4 work 8 seg7_pkg 0 22 :T3<7Io?;[Um;3G=ZX`GW0
+R8
+R6
+R1
+8M:/student/inf3430/oblig2/oppg5/regctrl_rtl.vhd
+FM:/student/inf3430/oblig2/oppg5/regctrl_rtl.vhd
+l24
+L6
+VMFBbi;fVE[`29c[f@o0zz2
+R3
+32
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/regctrl_rtl.vhd|
+R4
+R5
+!s100 lc?]_=5c`UQ10<o>lZ6A^0
+!i10b 1
+!s108 1475769759.340000
+!s107 M:/student/inf3430/oblig2/oppg5/regctrl_rtl.vhd|
+Pseg7_pkg
+R8
+R6
+R1
+w1475234803
+R2
+8M:/student/inf3430/oblig2/oppg5/seg7_pkg.vhd
+FM:/student/inf3430/oblig2/oppg5/seg7_pkg.vhd
+l0
+L5
+V:T3<7Io?;[Um;3G=ZX`GW0
+R3
+32
+b1
+R4
+R5
+!s100 4`<YkoUHnmlN=4e8WoHGS0
+!i10b 1
+!s108 1475769727.282000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/seg7_pkg.vhd|
+!s107 M:/student/inf3430/oblig2/oppg5/seg7_pkg.vhd|
+Bbody
+R20
+R8
+R6
+R1
+32
+w1475237550
+8M:/student/inf3430/oblig2/oppg5/seg7_bdy.vhd
+FM:/student/inf3430/oblig2/oppg5/seg7_bdy.vhd
+l0
+L6
+VTdjmEiZEKH_bg231MHh6n2
+R3
+R4
+R5
+nbody
+!s100 Qk6^_?M^^Q8C;C26NEiea1
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/seg7_bdy.vhd|
+!i10b 1
+!s108 1475769726.939000
+!s107 M:/student/inf3430/oblig2/oppg5/seg7_bdy.vhd|
+Eseg7ctrl
+w1475757671
+R8
+R6
+R1
+R2
+8M:/student/inf3430/oblig2/oppg5/seg7ctrl_ent.vhd
+FM:/student/inf3430/oblig2/oppg5/seg7ctrl_ent.vhd
+l0
+L5
+VOd=ZO?>j[YzYOK?mC76[=0
+R3
+32
+R4
+R5
+!s100 710ZOm82GG7N9OdYE25UL2
+!i10b 1
+!s108 1475769728.062000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/seg7ctrl_ent.vhd|
+!s107 M:/student/inf3430/oblig2/oppg5/seg7ctrl_ent.vhd|
+Abeh
+w1475766832
+DEx4 work 8 seg7ctrl 0 22 Od=ZO?>j[YzYOK?mC76[=0
+R8
+R20
+R6
+R1
+8M:/student/inf3430/oblig2/oppg5/seg7ctrl_beh.vhd
+FM:/student/inf3430/oblig2/oppg5/seg7ctrl_beh.vhd
+l40
+L6
+VzaNceYoJZjL5]ELKNFXcF1
+R3
+32
+R4
+R5
+!s100 WW_;?Ll1XcGA81P^ba>h;2
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/seg7ctrl_beh.vhd|
+!i10b 1
+!s108 1475769727.626000
+!s107 M:/student/inf3430/oblig2/oppg5/seg7ctrl_beh.vhd|
+Eseg7model
+w1474620395
+R6
+R1
+R2
+8M:/student/inf3430/oblig2/src/seg7model_ent.vhd
+FM:/student/inf3430/oblig2/src/seg7model_ent.vhd
+l0
+L9
+VShf^C<U<SeR:n<_cGQYT72
+R3
+32
+R4
+R5
+!s100 ^IHez693@@8ZJ:zkEZ=Mc0
+!i10b 1
+!s108 1475769730.902000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/src/seg7model_ent.vhd|
+!s107 M:/student/inf3430/oblig2/src/seg7model_ent.vhd|
+Abeh
+w1475584097
+DEx4 work 9 seg7model 0 22 Shf^C<U<SeR:n<_cGQYT72
+R6
+R1
+8M:/student/inf3430/oblig2/src/seg7model_beh.vhd
+FM:/student/inf3430/oblig2/src/seg7model_beh.vhd
+l11
+L9
+V1Lead:MDXKWec=;84Ed3A3
+R3
+32
+R4
+R5
+!s100 7H[be8QJ>kCI1=D2D[UgO2
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/src/seg7model_beh.vhd|
+!i10b 1
+!s108 1475769730.574000
+!s107 M:/student/inf3430/oblig2/src/seg7model_beh.vhd|
+Eslowclock
+w1475591089
+R8
+R6
+R1
+R2
+8M:/student/inf3430/oblig2/oppg5/slowclock_ent.vhd
+FM:/student/inf3430/oblig2/oppg5/slowclock_ent.vhd
+l0
+L6
+V[_T2;AlB:Hkn:YgOe2_0U1
+R3
+32
+R4
+R5
+!s100 iM^=j4YmV[5l<B:zYNkKd1
+!i10b 1
+!s108 1475769728.780000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/slowclock_ent.vhd|
+!s107 M:/student/inf3430/oblig2/oppg5/slowclock_ent.vhd|
+Artl
+w1475764839
+DEx4 work 9 slowclock 0 22 [_T2;AlB:Hkn:YgOe2_0U1
+R8
+R6
+R1
+8M:/student/inf3430/oblig2/oppg5/sloclock_rtl.vhd
+FM:/student/inf3430/oblig2/oppg5/sloclock_rtl.vhd
+l9
+L5
+V37oofQ2h2an_A1[2fm[<l1
+R3
+32
+R4
+R5
+!s100 Y<g<IzoiJUhD1Cc=f`J0;2
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/sloclock_rtl.vhd|
+!i10b 1
+!s108 1475769728.390000
+!s107 M:/student/inf3430/oblig2/oppg5/sloclock_rtl.vhd|
+Etb_oppg5
+Z21 w1475768185
+R8
+R6
+R1
+R2
+Z22 8M:/student/inf3430/oblig2/oppg5/tb_oppg5.vhd
+Z23 FM:/student/inf3430/oblig2/oppg5/tb_oppg5.vhd
+l0
+L6
+VlfLjJM6Wa:k8VSU750YMb3
+R3
+32
+Z24 !s108 1475769730.090000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/tb_oppg5.vhd|
+Z26 !s107 M:/student/inf3430/oblig2/oppg5/tb_oppg5.vhd|
+R4
+R5
+!s100 PLdg05]d6WZX4FLOl3Z<Q1
+!i10b 1
+Atestbench
+R8
+R6
+R1
+DEx4 work 8 tb_oppg5 0 22 lfLjJM6Wa:k8VSU750YMb3
+l51
+L9
+VaU^oej_4Xlb3@a;EL5[kD2
+R3
+32
+R24
+R25
+R26
+R4
+R5
+!s100 0BjhGjcI>XVIT8j0S@SnO0
+!i10b 1
+Eteller
+w1475769390
+R8
+R6
+R1
+R2
+8M:/student/inf3430/oblig2/oppg5/teller_ent.vhd
+FM:/student/inf3430/oblig2/oppg5/teller_ent.vhd
+l0
+L5
+V@N3dkmjdUnX<zQ^8XY1^X2
+R3
+32
+R4
+R5
+!s100 Ca4lWY1NbV]cgGf8G]XEU3
+!i10b 1
+!s108 1475769729.092000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/teller_ent.vhd|
+!s107 M:/student/inf3430/oblig2/oppg5/teller_ent.vhd|
+Artl
+w1475769426
+DEx4 work 6 teller 0 22 @N3dkmjdUnX<zQ^8XY1^X2
+R8
+R6
+R1
+8M:/student/inf3430/oblig2/oppg5/teller_rtl.vhd
+FM:/student/inf3430/oblig2/oppg5/teller_rtl.vhd
+l9
+L5
+VWZ=bEA1NdhHi`IHKTP3VK3
+R3
+32
+R4
+R5
+!s100 PFnX]_jlib9Ae?QU]^E>92
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig2/oppg5/teller_rtl.vhd|
+!i10b 1
+!s108 1475769729.420000
+!s107 M:/student/inf3430/oblig2/oppg5/teller_rtl.vhd|

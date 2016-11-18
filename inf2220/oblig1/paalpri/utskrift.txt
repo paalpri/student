@@ -1,0 +1,95 @@
+Utskrift av terminal!
+
+
+paalpri@paalpri:~/student/inf2220/oblig1$ javac *.java
+paalpri@paalpri:~/student/inf2220/oblig1$ java oblig1
+Velkommen til ordboken min!
+hva heterr filen til ordboken?
+dictionary.txt
+Are you readyy!!???
+no
+Who cares! lets start anyway!
+Naa skal vi sette inn ordet busybody
+Naa er ordet busybody satt inn!, bare se naar jeg soker paa det:
+Sok ord busybody: busybody
+ TADA!!, la oss slette det, saa soker vi igjen
+Soker igjen: null
+TADAAAA!!!!! (whatevs)
+ordbok:
+sok: achiev
+Vi fant ikke ordet ditt :/
+Kanskje du mente noen av disse ordene: 
+achive, achier, 
+
+ordbok:
+sok: achiese
+Vi fant ikke ordet ditt :/
+Kanskje du mente noen av disse ordene: 
+achinese, achieve, achiest, 
+
+ordbok:
+sok: achievee
+Vi fant ikke ordet ditt :/
+Kanskje du mente noen av disse ordene: 
+achieve, achieve, achieved, achiever, achieves, 
+
+ordbok:
+sok: ahcieve
+Vi fant ikke ordet ditt :/
+Kanskje du mente noen av disse ordene: 
+achieve, 
+
+ordbok:
+sok: achieve
+Vi fant ordet ditt!
+ord: achieve
+
+ordbok:
+sok: q
+Takk for du brukte paals ordbok
+For du gaar ta en titt paa disse totalt ubrukelige statistikkene!:
+First word: abactinally
+Last word: darndests
+tot depth of tree: 36
+Nodes in each depth of the tree: 
+Depth 0: 1 nodes
+Depth 1: 2 nodes
+Depth 2: 4 nodes
+Depth 3: 8 nodes
+Depth 4: 16 nodes
+Depth 5: 32 nodes
+Depth 6: 64 nodes
+Depth 7: 121 nodes
+Depth 8: 218 nodes
+Depth 9: 383 nodes
+Depth 10: 628 nodes
+Depth 11: 990 nodes
+Depth 12: 1513 nodes
+Depth 13: 2208 nodes
+Depth 14: 2949 nodes
+Depth 15: 3889 nodes
+Depth 16: 4772 nodes
+Depth 17: 5671 nodes
+Depth 18: 6251 nodes
+Depth 19: 6689 nodes
+Depth 20: 6692 nodes
+Depth 21: 6449 nodes
+Depth 22: 5884 nodes
+Depth 23: 5101 nodes
+Depth 24: 4244 nodes
+Depth 25: 3254 nodes
+Depth 26: 2395 nodes
+Depth 27: 1789 nodes
+Depth 28: 1177 nodes
+Depth 29: 705 nodes
+Depth 30: 429 nodes
+Depth 31: 236 nodes
+Depth 32: 138 nodes
+Depth 33: 60 nodes
+Depth 34: 25 nodes
+Depth 35: 9 nodes
+Depth 36: 3 nodes
+Average depth: 19.650582007760104
+Velkommen tilbake og husk, dont Pokemon Go and drive!
+
+paalpri@paalpri:~/student/inf2220/oblig1$ 

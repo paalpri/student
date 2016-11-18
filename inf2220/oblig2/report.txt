@@ -1,0 +1,5 @@
+        This is a really Complex report in O(n) time
+        My methods have linear time (O(n))
+        except my slack and print methods which is O(n²).
+        On these i use a for loop inside a for loop both places, which adds up to O(n²)
+        

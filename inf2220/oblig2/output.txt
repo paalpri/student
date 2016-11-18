@@ -1,0 +1,676 @@
+
+
+// Output fra buildrail 
+Time:  0
+	 Starting: 9
+	 Current staff: 10
+
+Time: 3
+	 Finished: 9
+	 Starting: 10
+	 Starting: 11
+	 Starting: 12
+	 Starting: 14
+	 Starting: 16
+	 Starting: 17
+	 Current staff: 56
+
+Time: 4
+	 Finished: 11
+	 Starting: 18
+	 Starting: 19
+	 Starting: 20
+	 Current staff: 64
+
+Time: 5
+	 Finished: 10
+	 Starting: 2
+	 Current staff: 70
+
+Time: 12
+	 Finished: 2
+	 Current staff: 60
+
+Time: 16
+	 Finished: 20
+	 Starting: 23
+	 Current staff: 61
+
+Time: 28
+	 Finished: 14
+	 Starting: 15
+	 Current staff: 61
+
+Time: 29
+	 Finished: 19
+	 Current staff: 57
+
+Time: 33
+	 Finished: 12
+	 Starting: 13
+	 Current staff: 57
+
+Time: 38
+	 Finished: 16
+	 Current staff: 45
+
+Time: 44
+	 Finished: 18
+	 Starting: 21
+	 Current staff: 46
+
+Time: 46
+	 Finished: 23
+	 Starting: 26
+	 Current staff: 48
+
+Time: 48
+	 Finished: 17
+	 Starting: 22
+	 Finished: 15
+	 Current staff: 29
+
+Time: 51
+	 Finished: 13
+	 Starting: 8
+	 Current staff: 24
+
+Time: 59
+	 Finished: 21
+	 Starting: 24
+	 Current staff: 26
+
+Time: 63
+	 Finished: 8
+	 Starting: 3
+	 Current staff: 29
+
+Time: 64
+	 Finished: 22
+	 Starting: 25
+	 Finished: 3
+	 Current staff: 21
+
+Time: 66
+	 Finished: 26
+	 Current staff: 14
+
+Time: 119
+	 Finished: 24
+	 Starting: 4
+	 Current staff: 13
+
+Time: 124
+	 Finished: 25
+	 Starting: 5
+	 Starting: 27
+	 Current staff: 22
+
+Time: 134
+	 Finished: 4
+	 Current staff: 16
+
+Time: 136
+	 Finished: 5
+	 Current staff: 10
+
+Time: 149
+	 Finished: 27
+	 Starting: 28
+	 Starting: 29
+	 Current staff: 20
+
+Time: 179
+	 Finished: 28
+	 Current staff: 10
+
+Time: 186
+	 Finished: 29
+	 Starting: 1
+	 Starting: 6
+	 Starting: 7
+	 Starting: 30
+	 Current staff: 29
+
+Time: 204
+	 Finished: 7
+	 Current staff: 23
+
+Time: 206
+	 Finished: 1
+	 Finished: 30
+	 Starting: 31
+	 Current staff: 13
+
+Time: 213
+	 Finished: 6
+	 Current staff: 7
+
+Time: 218
+	 Finished: 31
+	 Current staff: 0
+
+Id: 1
+Name: Install-pavement
+Time: 20
+Staff: 10
+Earliest start: 186
+Latest start: 198
+Earliest finish: 206
+Latest finish: 218
+Slack: 12
+Iden til outEdges: (de som peker på meg): 28 29 
+iden til naboene: (de jeg peker på): 
+
+Id: 2
+Name: Install-railing
+Time: 7
+Staff: 10
+Earliest start: 5
+Latest start: 211
+Earliest finish: 12
+Latest finish: 218
+Slack: 206
+Iden til outEdges: (de som peker på meg): 10 
+iden til naboene: (de jeg peker på): 
+
+Id: 3
+Name: Install-ticketmachine
+Time: 1
+Staff: 10
+Earliest start: 63
+Latest start: 217
+Earliest finish: 64
+Latest finish: 218
+Slack: 154
+Iden til outEdges: (de som peker på meg): 8 
+iden til naboene: (de jeg peker på): 
+
+Id: 4
+Name: Paint-tower-1-with-arch
+Time: 15
+Staff: 6
+Earliest start: 119
+Latest start: 203
+Earliest finish: 134
+Latest finish: 218
+Slack: 84
+Iden til outEdges: (de som peker på meg): 24 
+iden til naboene: (de jeg peker på): 
+
+Id: 5
+Name: Paint-tower-2
+Time: 12
+Staff: 6
+Earliest start: 124
+Latest start: 206
+Earliest finish: 136
+Latest finish: 218
+Slack: 82
+Iden til outEdges: (de som peker på meg): 25 
+iden til naboene: (de jeg peker på): 
+
+Id: 6
+Name: Paint-trusses
+Time: 27
+Staff: 6
+Earliest start: 186
+Latest start: 191
+Earliest finish: 213
+Latest finish: 218
+Slack: 5
+Iden til outEdges: (de som peker på meg): 28 29 
+iden til naboene: (de jeg peker på): 
+
+Id: 7
+Name: Paint-cables-and-rods
+Time: 18
+Staff: 6
+Earliest start: 186
+Latest start: 200
+Earliest finish: 204
+Latest finish: 218
+Slack: 14
+Iden til outEdges: (de som peker på meg): 28 29 
+iden til naboene: (de jeg peker på): 
+
+Id: 8
+Name: Put-lane-tunnel-and-intersection
+Time: 12
+Staff: 7
+Earliest start: 51
+Latest start: 194
+Earliest finish: 63
+Latest finish: 206
+Slack: 143
+Iden til outEdges: (de som peker på meg): 13 15 
+iden til naboene: (de jeg peker på): 3 31 
+
+Id: 9
+Name: Setup-barrack
+Time: 3
+Staff: 10
+Earliest start: 0
+Latest start: 0
+Earliest finish: 3
+Latest finish: 3
+Slack: 0
+Iden til outEdges: (de som peker på meg): 
+iden til naboene: (de jeg peker på): 10 11 12 14 16 17 
+
+Id: 10
+Name: Prepare-storage
+Time: 2
+Staff: 4
+Earliest start: 3
+Latest start: 209
+Earliest finish: 5
+Latest finish: 211
+Slack: 206
+Iden til outEdges: (de som peker på meg): 9 
+iden til naboene: (de jeg peker på): 2 
+
+Id: 11
+Name: Rig-ramspace-reinforcing
+Time: 1
+Staff: 4
+Earliest start: 3
+Latest start: 8
+Earliest finish: 4
+Latest finish: 9
+Slack: 5
+Iden til outEdges: (de som peker på meg): 9 
+iden til naboene: (de jeg peker på): 18 19 20 
+
+Id: 12
+Name: Build-tunnel
+Time: 30
+Staff: 12
+Earliest start: 3
+Latest start: 146
+Earliest finish: 33
+Latest finish: 176
+Slack: 143
+Iden til outEdges: (de som peker på meg): 9 
+iden til naboene: (de jeg peker på): 13 
+
+Id: 13
+Name: Clean-tunnel
+Time: 18
+Staff: 12
+Earliest start: 33
+Latest start: 176
+Earliest finish: 51
+Latest finish: 194
+Slack: 143
+Iden til outEdges: (de som peker på meg): 12 
+iden til naboene: (de jeg peker på): 8 
+
+Id: 14
+Name: Build-intersection
+Time: 25
+Staff: 12
+Earliest start: 3
+Latest start: 149
+Earliest finish: 28
+Latest finish: 174
+Slack: 146
+Iden til outEdges: (de som peker på meg): 9 
+iden til naboene: (de jeg peker på): 15 
+
+Id: 15
+Name: Clean-intersection
+Time: 20
+Staff: 12
+Earliest start: 28
+Latest start: 174
+Earliest finish: 48
+Latest finish: 194
+Slack: 146
+Iden til outEdges: (de som peker på meg): 14 
+iden til naboene: (de jeg peker på): 8 
+
+Id: 16
+Name: Build-towerfoundation-1
+Time: 35
+Staff: 12
+Earliest start: 3
+Latest start: 14
+Earliest finish: 38
+Latest finish: 49
+Slack: 11
+Iden til outEdges: (de som peker på meg): 9 
+iden til naboene: (de jeg peker på): 21 
+
+Id: 17
+Name: Build-towerfoundation-2
+Time: 45
+Staff: 12
+Earliest start: 3
+Latest start: 3
+Earliest finish: 48
+Latest finish: 48
+Slack: 0
+Iden til outEdges: (de som peker på meg): 9 
+iden til naboene: (de jeg peker på): 22 
+
+Id: 18
+Name: Make-armouring-tower-1
+Time: 40
+Staff: 4
+Earliest start: 4
+Latest start: 9
+Earliest finish: 44
+Latest finish: 49
+Slack: 5
+Iden til outEdges: (de som peker på meg): 11 
+iden til naboene: (de jeg peker på): 21 
+
+Id: 19
+Name: Make-armouring-tower-2
+Time: 25
+Staff: 4
+Earliest start: 4
+Latest start: 23
+Earliest finish: 29
+Latest finish: 48
+Slack: 19
+Iden til outEdges: (de som peker på meg): 11 
+iden til naboene: (de jeg peker på): 22 
+
+Id: 20
+Name: Make-armouring-arch
+Time: 12
+Staff: 4
+Earliest start: 4
+Latest start: 144
+Earliest finish: 16
+Latest finish: 156
+Slack: 140
+Iden til outEdges: (de som peker på meg): 11 
+iden til naboene: (de jeg peker på): 23 
+
+Id: 21
+Name: Encase-and-armour-tower-1
+Time: 15
+Staff: 5
+Earliest start: 44
+Latest start: 49
+Earliest finish: 59
+Latest finish: 64
+Slack: 5
+Iden til outEdges: (de som peker på meg): 16 18 
+iden til naboene: (de jeg peker på): 24 
+
+Id: 22
+Name: Encase-and-armour-tower-2
+Time: 16
+Staff: 5
+Earliest start: 48
+Latest start: 48
+Earliest finish: 64
+Latest finish: 64
+Slack: 0
+Iden til outEdges: (de som peker på meg): 17 19 
+iden til naboene: (de jeg peker på): 25 
+
+Id: 23
+Name: Encase-and-armour-arch
+Time: 30
+Staff: 5
+Earliest start: 16
+Latest start: 156
+Earliest finish: 46
+Latest finish: 186
+Slack: 140
+Iden til outEdges: (de som peker på meg): 20 
+iden til naboene: (de jeg peker på): 26 
+
+Id: 24
+Name: Cast-tower-1
+Time: 60
+Staff: 7
+Earliest start: 59
+Latest start: 64
+Earliest finish: 119
+Latest finish: 124
+Slack: 5
+Iden til outEdges: (de som peker på meg): 21 
+iden til naboene: (de jeg peker på): 4 27 
+
+Id: 25
+Name: Cast-tower-2
+Time: 60
+Staff: 7
+Earliest start: 64
+Latest start: 64
+Earliest finish: 124
+Latest finish: 124
+Slack: 0
+Iden til outEdges: (de som peker på meg): 22 
+iden til naboene: (de jeg peker på): 5 27 
+
+Id: 26
+Name: Cast-arch
+Time: 20
+Staff: 7
+Earliest start: 46
+Latest start: 186
+Earliest finish: 66
+Latest finish: 206
+Slack: 140
+Iden til outEdges: (de som peker på meg): 23 
+iden til naboene: (de jeg peker på): 31 
+
+Id: 27
+Name: Stretch-two-maincables
+Time: 25
+Staff: 10
+Earliest start: 124
+Latest start: 124
+Earliest finish: 149
+Latest finish: 149
+Slack: 0
+Iden til outEdges: (de som peker på meg): 24 25 
+iden til naboene: (de jeg peker på): 28 29 
+
+Id: 28
+Name: Build-truss-1-with-rods
+Time: 30
+Staff: 10
+Earliest start: 149
+Latest start: 156
+Earliest finish: 179
+Latest finish: 186
+Slack: 7
+Iden til outEdges: (de som peker på meg): 27 
+iden til naboene: (de jeg peker på): 1 6 7 30 
+
+Id: 29
+Name: Build-truss-2-with-rods
+Time: 37
+Staff: 10
+Earliest start: 149
+Latest start: 149
+Earliest finish: 186
+Latest finish: 186
+Slack: 0
+Iden til outEdges: (de som peker på meg): 27 
+iden til naboene: (de jeg peker på): 1 6 7 30 
+
+Id: 30
+Name: Cast-lane-on-truss
+Time: 20
+Staff: 7
+Earliest start: 186
+Latest start: 186
+Earliest finish: 206
+Latest finish: 206
+Slack: 0
+Iden til outEdges: (de som peker på meg): 28 29 
+iden til naboene: (de jeg peker på): 31 
+
+Id: 31
+Name: Polish-lane-on-arch
+Time: 12
+Staff: 7
+Earliest start: 206
+Latest start: 206
+Earliest finish: 218
+Latest finish: 218
+Slack: 0
+Iden til outEdges: (de som peker på meg): 30 26 8 
+iden til naboene: (de jeg peker på):
+
+
+
+         // Output fra buildhouse1.txt
+
+Time:  0
+	 Starting: 5
+	 Current staff: 2
+
+Time: 4
+	 Finished: 5
+	 Starting: 1
+	 Starting: 6
+	 Current staff: 4
+
+Time: 6
+	 Finished: 6
+	 Current staff: 2
+
+Time: 8
+	 Finished: 1
+	 Starting: 2
+	 Current staff: 4
+
+Time: 14
+	 Finished: 2
+	 Starting: 3
+	 Starting: 4
+	 Starting: 7
+	 Current staff: 7
+
+Time: 15
+	 Finished: 3
+	 Finished: 4
+	 Current staff: 2
+
+Time: 18
+	 Finished: 7
+	 Starting: 8
+	 Current staff: 4
+
+Time: 22
+	 Finished: 8
+	 Current staff: 0
+
+Id: 1
+Name: Build-walls
+Time: 4
+Staff: 2
+Earliest start: 4
+Latest start: 4
+Earliest finish: 8
+Latest finish: 8
+Slack: 0
+Iden til outEdges: (de som peker på meg): 5 
+iden til naboene: (de jeg peker på): 2 3 
+
+Id: 2
+Name: Build-roofs
+Time: 6
+Staff: 4
+Earliest start: 8
+Latest start: 8
+Earliest finish: 14
+Latest finish: 14
+Slack: 0
+Iden til outEdges: (de som peker på meg): 1 
+iden til naboene: (de jeg peker på): 3 4 7 
+
+Id: 3
+Name: Put-on-wallpapers
+Time: 1
+Staff: 2
+Earliest start: 14
+Latest start: 17
+Earliest finish: 15
+Latest finish: 18
+Slack: 3
+Iden til outEdges: (de som peker på meg): 1 2 
+iden til naboene: (de jeg peker på): 8 
+
+Id: 4
+Name: Put-on-tiles
+Time: 1
+Staff: 3
+Earliest start: 14
+Latest start: 21
+Earliest finish: 15
+Latest finish: 22
+Slack: 7
+Iden til outEdges: (de som peker på meg): 2 
+iden til naboene: (de jeg peker på): 
+
+Id: 5
+Name: Build-foundation
+Time: 4
+Staff: 2
+Earliest start: 0
+Latest start: 0
+Earliest finish: 4
+Latest finish: 4
+Slack: 0
+Iden til outEdges: (de som peker på meg): 
+iden til naboene: (de jeg peker på): 1 6 
+
+Id: 6
+Name: Make-floor
+Time: 2
+Staff: 2
+Earliest start: 4
+Latest start: 12
+Earliest finish: 6
+Latest finish: 14
+Slack: 8
+Iden til outEdges: (de som peker på meg): 5 
+iden til naboene: (de jeg peker på): 7 
+
+Id: 7
+Name: Put-carpet-floor
+Time: 4
+Staff: 2
+Earliest start: 14
+Latest start: 14
+Earliest finish: 18
+Latest finish: 18
+Slack: 0
+Iden til outEdges: (de som peker på meg): 6 2 
+iden til naboene: (de jeg peker på): 8 
+
+Id: 8
+Name: Move-in
+Time: 4
+Staff: 4
+Earliest start: 18
+Latest start: 18
+Earliest finish: 22
+Latest finish: 22
+Slack: 0
+Iden til outEdges: (de som peker på meg): 3 7 
+iden til naboene: (de jeg peker på):
+
+         //output fra buildhouse2 som inneholder en løkke
+
+Time:  0
+	 Starting: 5
+	 Current staff: 2
+
+Time: 4
+	 Finished: 5
+	 Current staff: 0
+
+Prosjektet er ikke gjenomførbart, fant en løkke
+Løkken er id 2:  Build-roofs --> id 3:  Put-on-wallpapers --> id 6:  Make-floor --> id 1:  Build-walls --> 

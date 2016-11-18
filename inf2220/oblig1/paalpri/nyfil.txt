@@ -1,0 +1,18 @@
+Velkommen til ordboken min!
+hva heterr filen til ordboken?
+Are you readyy!!???
+Who cares! lets start anyway!
+Naa skal vi sette inn ordet busybody
+Naa er ordet busybody satt inn!, bare se naar jeg soker paa det:
+Sok ord busybody: null
+ TADA!!, la oss slette det, saa soker vi igjen
+Soker igjen: null
+TADAAAA!!!!! (whatevs)
+ordbok:
+sok: Vi fant ikke ordet ditt :/
+Kanskje du mente noen av disse ordene: 
+
+
+ordbok:
+sok: Takk for du brukte paals ordbok
+For du gaar ta en titt paa disse totalt ubrukelige statistikkene!:

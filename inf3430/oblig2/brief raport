@@ -1,0 +1,22 @@
+	Brief raport om lab 2:
+	oppgave 1:
+		Oppgave 1 gikk ganske greit, var rett frem og greit å lære om funksjoner og presedyrer. ingen problem her.
+		endte opp med bare 3 mapper på 5 spørsmål siden oppgave d og e sier vi bare skal endre på oppgave b og c.
+	oppgave 2: 
+		å lage funksjonen i samhold med tabell 2 gikk ganske greit, var bare til å følge tabellen og kode det rett inn i en funksjon som vi la i en egen package.
+		Testbenker vår for oppgave 2 er den samme som for oppgave 3, siden vi bare endret på den vi hadde fra oppgave 2 når vi kom til oppgave 3.
+		så denne bruker seg7ctrl allerede i testbenken for oppgave 2	
+	oppgave 3:
+		Som sagt har vi samme testbenk her som forrige oppgave, håper det går bra, den viser jo at begge fungerer. i seg7ctrl har vi også lagt inn slowclock som brukes i oppgave 4. 
+		Var dessverre ikke klar over at vi skulle lage en kopi av oppgaven og programmere den videre når vi kom til neste oppgave. så det er det endelige produktet som ligger i alle oppgavene. 
+		men vi bruker jo alt som lages i hver oppgave. Counter som ligger i seg7ctrl er rett og slett bare et 2 bits tall som teller til 4 på hver klokkeflanke, 
+		sender tallet videre til decoderen som forandrer tallene til et 4 bits tall som brukes til å bestemme hvilket display som skal lyse til enhver tid. på denne måten får vi displayene til å lyse etter 			hverandre og får lys på alle de 4 displayene. de lyser egentligt bare 1 om gangen men siden det går på 100mhz på brettet eller 50 mhz på simuleringen så ser det ut som for oss at alle lyser samtidig.
+	oppgave 4:
+		Her laget vi regctrl og regs componentene. Det eneste regs gjør er å binne sammen de to componentene regctrl og seg7ctrl. Her er det ingen logikk i seg selv bare portmapping sånn at de henger sammen.
+		Regctrl har en ganske simpel logikk, det eneste den egentlig gjør er at den setter utgangene til "0000" visst reset er høy, ellers visst load eller btnl er høy så setter den inputen som bruker har 			sendt inn ut på utgangen som switch velger. Alt dette skjer bare ved høy klokkeflanke. vi legger også til en slowclock komponent inne i seg7ctrl, dette gjøres for å sakte ned klokka på brettet som går 			på 100mhz, dette er for fort og brettet rekker ikke å sette noen verdi på displayet. vi må altså sakte ned klokka til minst 50 mhz for å få noe som helst verdi ut på brettet.
+		Verdiene som blir sendt ut fra regctrl til seg7ctrl holdes like helt til vi manuelt endrer dem. dette gjør at displayet fortsetter å vise alle talla og ikke viser de i bare en liten periode.
+	oppgave 5:
+		I denne oppgaven erstattet vi regs componenten med en clock component, denne gjør akkurat det samme som regs bare med nye input som spesifisert av oppgaven. alt endring av logikk forandret vi i 			regsctrl. Nå var vi klar over at vi ikke skulle endre på forrige oppgave men lage en kopi og endre den. Vi lagte en 26 bit teller som skulle telle til 1 sekund for oss, og på hver rising edge av denne 			telleren så endret vi på hva som skulle vises på displayet. Selve logikken for å få telleren til å gå oppover er supen simpel, plusser bare på 1 med hva som er der fra før og sjekker alle 4 bitsene til 			hvert display om de har nådd 9, isåfall så setter vi dem til 0 og plusser på 1 på neste display.
+
+
+
