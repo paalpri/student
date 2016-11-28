@@ -26,6 +26,12 @@ class oblig3{
         }
         System.out.println("Needle: " + needle);
         System.out.println("Haystack: " + haystack);
+
+        if (needle.length() > haystack.length()){
+            System.out.println("Needle bigger then haystack");
+            System.exit(0);
+        }
+
         int antall =  boyer_moore_horspool(needle,haystack);
         System.out.println(needle + " forekom " + antall + " ganger i haystacken");
     }
@@ -40,26 +46,22 @@ class oblig3{
         return tekst;
     }
 
+  
+    
     /*
-     * Koden er tatt fra forelesningsfoylen
-     * og modifisert for og passe til wildcards
+     * Metode som kutter ned og fjerner alle wildcards som ligger i slutten av nålen
+     * disse matcher alltid så på denne måten får vi mindre å sammenligne og det går fortere
+     * kutter også ned haystack offsetet senere til å matche lengden på hvor mye vi kuttet ned,
+     * sånn at vi ikke mister noe i slutten av haystacken
      */
-    static public int boyer_moore_horspool(String needleS, String haystackS){
+    static public char[] cutWildcards(char[] preNeedle,char[] haystack,String needleS){
         /*
          * Antar at små og store bokstaver er forskellige tegn og blir ikke samme
-         * Tar bort alle whitespaces i slutten eller starten av både needle og haystack,
-         * anter disse ikke skal sammenliknes
          */
-        char[] preNeedle = needleS.trim().toCharArray();
-        char[] haystack = haystackS.trim().toCharArray();
-        ArrayList<Integer> tall = new ArrayList<>();
-        if (preNeedle.length > haystack.length){
-            System.out.println("Needle bigger then haystack");
-            return -1;
-        }
+
         // counting the trailing wildcards, to cut them off later
         int indexCut;
-        for(indexCut = preNeedle.length-1; indexCut > 0; indexCut --){
+        for(indexCut = preNeedle.length - 1; indexCut > 0; indexCut --){
             if(preNeedle[indexCut] != '_'){
                 break;
             }
@@ -69,7 +71,18 @@ class oblig3{
             System.exit(0);
         }
         // cutting the needle by its trailing wildcards
-        char[] needle = needleS.substring(0,indexCut+1).toCharArray();
+        return (needleS.substring(0, indexCut+1).toCharArray());
+    }
+
+
+    /*
+     * Metode som finner arrayen med indexen til der i needelen vi ikke bare har wildcacrds,
+     * på denne måten sjekker vi bare tegn som ikke er wildcards, siden wildcards matcher jo hver gang
+     */
+    static public int[] checkArr(char[] needle){
+
+        ArrayList<Integer> tall = new ArrayList<>();
+        //adding the indexes that are to be checked.
         for(int i = 0; i < needle.length; i ++){
             if(needle[i] != '_'){
                 tall.add(i);
@@ -80,20 +93,30 @@ class oblig3{
         for(int i = 0; i < check.length; i ++){
             check[i] = tall.get(i);
         }
+
+        return check;
+    }
+
+    /*
+     * Metode som finner bad_shift arrayen
+     */
+    static public int[] make_bad_shift(char[] needle,int last){
         //define my bad_shift array to 256 as said at the top
         int[] bad_shift = new int[CHAR_MAX];
-        int offset = 0, scan = 0, antall = 0;
-        int last = needle.length - 1;
-        //cutting the haystack by as much as i cut the needle
-        int maxoffset = haystack.length - preNeedle.length;
+        /*
+         * visst vi har et wildcard som ikke er sist
+         * så kan vi maks hoppe x antall ganger forx neste søk
+         */
         int lastUnderline = new String(needle).lastIndexOf('_');
         int underlineOffset = needle.length;
         //this is to know when in the needle to start setting the bad_shift, sets only for those after a wildcard
         int startNeedle = 0;
         if(lastUnderline != -1){
             underlineOffset = last - lastUnderline;
-            startNeedle = underlineOffset;
+            startNeedle = lastUnderline  + 1 ;
         }
+        System.out.println("startneedle : " + startNeedle);
+        System.out.println("Underline offset: " + underlineOffset);
         /* fills the entire bad_shift array with the last occurency of wildcard,
          * or the length of the needle if there is no wildcards
          */
@@ -101,7 +124,23 @@ class oblig3{
         for(int i = startNeedle; i < last; i++){
             bad_shift[needle[i]] = last - i; // original
         }
-        int teller = 0;
+        return bad_shift;
+
+    }
+
+    static public int boyer_moore_horspool(String needleS, String haystackS){
+
+        char[] preNeedle = needleS.trim().toCharArray();
+        char[] haystack = haystackS.trim().toCharArray();
+        char[] needle = cutWildcards(preNeedle,haystack,needleS);
+        int[] check = checkArr(needle);
+        int last = needle.length - 1;
+        int[] bad_shift = make_bad_shift(needle,last);
+
+        int offset = 0, scan = 0, antall = 0;
+        //cutting the haystack by as much as i cut the needle
+        int maxoffset = haystack.length - preNeedle.length;
+
         while(offset <= maxoffset){
             for(scan = check.length-1; needle[check[scan]] == haystack[check[scan]+offset]; scan --){
                 if(scan == 0){ // match found!
@@ -118,12 +157,7 @@ class oblig3{
                     break;
                 }
             }
-            /*
-             * visst vi har et wildcard som ikke er sist
-             * så kan vi maks hoppe denne indexen frem til neste søk
-             */
             offset += bad_shift[haystack[offset + last]];
-            teller ++;
         }
         return antall;
     }
