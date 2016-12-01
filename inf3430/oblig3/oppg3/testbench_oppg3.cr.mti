@@ -1,0 +1,59 @@
+M:/student/inf3430/oblig3/oppg3/motor_ent.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig3/oppg3/motor_ent.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity motor
+
+} {} {}} M:/student/inf3430/oblig3/oppg3/motor_beh.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig3/oppg3/motor_beh.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture motor_beh of motor
+-- Loading entity motor
+
+} {} {}} M:/student/inf3430/oblig3/oppg3/pos_meas_rtl.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig3/oppg3/pos_meas_rtl.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling architecture rtl of pos_meas
+-- Loading entity pos_meas
+
+} {} {}} M:/student/inf3430/oblig3/oppg3/p_ctrl_rtl.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig3/oppg3/p_ctrl_rtl.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling architecture RTL_P_CTRL of P_ctrl
+-- Loading entity p_ctrl
+
+} {} {}} M:/student/inf3430/oblig3/oppg3/tb_p_ctrl.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig3/oppg3/tb_p_ctrl.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_p_ctrl
+-- Compiling architecture testbench of tb_p_ctrl
+
+} {} {}} M:/student/inf3430/oblig3/oppg3/pos_meas_ent.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig3/oppg3/pos_meas_ent.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity pos_meas
+
+} {} {}} M:/student/inf3430/oblig3/oppg3/p_ctrl_ent.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig3/oppg3/p_ctrl_ent.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity p_ctrl
+
+} {} {}}

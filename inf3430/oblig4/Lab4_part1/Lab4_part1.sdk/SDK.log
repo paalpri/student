@@ -1,0 +1,42 @@
+14:16:47 INFO  : Launching XSDB server: xsdb.bat -s W:/2015/vivado/SDK/2015.2/scripts/xsdb/xsdb/xsdb-server.tcl
+14:16:48 INFO  : Processing command line option -hwspec M:/student/inf3430/oblig4/Lab4_part1/Lab4_part1.sdk/Lab4_BD_wrapper.hdf.
+14:16:53 INFO  : XSDB server has started successfully.
+14:25:19 INFO  : System reset is completed.
+14:25:21 INFO  : FPGA configured successfully with bitstream "M:/student/inf3430/oblig4/Lab4_part1/Lab4_part1.sdk/Lab4_BD_wrapper_hw_platform_0/Lab4_BD_wrapper.bit"
+14:25:22 INFO  : ps7_init is completed.
+14:25:22 INFO  : ps7_post_config is completed.
+14:26:35 INFO  : System reset is completed.
+14:26:38 INFO  : FPGA configured successfully with bitstream "M:/student/inf3430/oblig4/Lab4_part1/Lab4_part1.sdk/Lab4_BD_wrapper_hw_platform_0/Lab4_BD_wrapper.bit"
+14:26:39 INFO  : ps7_init is completed.
+14:26:39 INFO  : ps7_post_config is completed.
+14:37:02 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:37:16 INFO  : System reset is completed.
+14:37:19 INFO  : FPGA configured successfully with bitstream "M:/student/inf3430/oblig4/Lab4_part1/Lab4_part1.sdk/Lab4_BD_wrapper_hw_platform_0/Lab4_BD_wrapper.bit"
+14:37:19 INFO  : ps7_init is completed.
+14:37:19 INFO  : ps7_post_config is completed.
+14:37:42 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:37:49 INFO  : System reset is completed.
+14:37:51 INFO  : FPGA configured successfully with bitstream "M:/student/inf3430/oblig4/Lab4_part1/Lab4_part1.sdk/Lab4_BD_wrapper_hw_platform_0/Lab4_BD_wrapper.bit"
+14:37:52 INFO  : ps7_init is completed.
+14:37:52 INFO  : ps7_post_config is completed.
+14:40:49 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:40:51 INFO  : System reset is completed.
+14:40:54 INFO  : FPGA configured successfully with bitstream "M:/student/inf3430/oblig4/Lab4_part1/Lab4_part1.sdk/Lab4_BD_wrapper_hw_platform_0/Lab4_BD_wrapper.bit"
+14:40:54 INFO  : ps7_init is completed.
+14:40:54 INFO  : ps7_post_config is completed.
+14:41:49 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:41:51 INFO  : System reset is completed.
+14:41:54 INFO  : FPGA configured successfully with bitstream "M:/student/inf3430/oblig4/Lab4_part1/Lab4_part1.sdk/Lab4_BD_wrapper_hw_platform_0/Lab4_BD_wrapper.bit"
+14:41:54 INFO  : ps7_init is completed.
+14:41:54 INFO  : ps7_post_config is completed.
+14:42:21 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:42:23 INFO  : System reset is completed.
+14:42:26 INFO  : FPGA configured successfully with bitstream "M:/student/inf3430/oblig4/Lab4_part1/Lab4_part1.sdk/Lab4_BD_wrapper_hw_platform_0/Lab4_BD_wrapper.bit"
+14:42:26 INFO  : ps7_init is completed.
+14:42:26 INFO  : ps7_post_config is completed.
+14:43:04 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:43:05 INFO  : System reset is completed.
+14:43:08 INFO  : FPGA configured successfully with bitstream "M:/student/inf3430/oblig4/Lab4_part1/Lab4_part1.sdk/Lab4_BD_wrapper_hw_platform_0/Lab4_BD_wrapper.bit"
+14:43:08 INFO  : ps7_init is completed.
+14:43:08 INFO  : ps7_post_config is completed.
+14:43:54 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 

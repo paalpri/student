@@ -1,0 +1,17 @@
+M:/student/inf3430/oblig1/src/OPPG4a/dff.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig1/src/OPPG4a/dff.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dff
+-- Compiling architecture rtl of dff
+
+} {} {}} M:/student/inf3430/oblig1/src/OPPG4a/shift8.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig1/src/OPPG4a/shift8.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shift8
+-- Compiling architecture rtl of shift8
+
+} {} {}}

@@ -1,0 +1,77 @@
+m255
+K3
+13
+cModel Technology
+dC:\questasim64_10.1d\examples
+Efirst
+Z0 w1473156900
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dM:\student\inf3430\oblig1
+Z5 8M:/student/inf3430/oblig1/src/first.vhd
+Z6 FM:/student/inf3430/oblig1/src/first.vhd
+l0
+L10
+VDokZ;kY^^oDbc0OcNRcR`3
+Z7 OL;C;10.1d;51
+32
+Z8 !s108 1473157389.096000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig1/src/first.vhd|
+Z10 !s107 M:/student/inf3430/oblig1/src/first.vhd|
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+!s100 VzM6Gb`8gX45c076c2Y1Z0
+!i10b 1
+Amy_first_arch
+R1
+R2
+R3
+DEx4 work 5 first 0 22 DokZ;kY^^oDbc0OcNRcR`3
+l39
+L31
+V95o<hlTmn5=05`mKFk_D21
+!s100 L5Q_eMl@P^`O7>I=j?7_m0
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+Etest_first
+Z13 w1473156900
+R2
+R3
+R4
+Z14 8M:/student/inf3430/oblig1/src/tb_first.vhd
+Z15 FM:/student/inf3430/oblig1/src/tb_first.vhd
+l0
+L4
+V?j;R5=iK6oH[Z6CC5WUe^3
+!s100 L888SZehB30a3VRe8zeX`1
+R7
+32
+!i10b 1
+Z16 !s108 1473157389.579000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig1/src/tb_first.vhd|
+Z18 !s107 M:/student/inf3430/oblig1/src/tb_first.vhd|
+R11
+R12
+Atestbench
+R2
+R3
+Z19 DEx4 work 10 test_first 0 22 ?j;R5=iK6oH[Z6CC5WUe^3
+l35
+L8
+Z20 VbeWXNb>7zO53FXDKH[kNP3
+Z21 !s100 nQMIJTNWCT`Q;AfAWdYcQ3
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12

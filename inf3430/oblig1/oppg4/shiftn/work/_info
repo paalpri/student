@@ -1,0 +1,111 @@
+m255
+K3
+13
+cModel Technology
+dC:\questasim64_10.1d\examples
+Edff
+Z0 w1473156900
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dM:\student\inf3430\oblig1\oppg4\shiftn
+Z4 8M:/student/inf3430/oblig1/oppg4/shiftn/dff.vhd
+Z5 FM:/student/inf3430/oblig1/oppg4/shiftn/dff.vhd
+l0
+L5
+V=3L3eL8e6?1BmLmQ5:O6l3
+Z6 OL;C;10.1d;51
+32
+Z7 !s108 1474461182.276000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig1/oppg4/shiftn/dff.vhd|
+Z9 !s107 M:/student/inf3430/oblig1/oppg4/shiftn/dff.vhd|
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1
+!s100 H^EiD`dYF8L93UzbnmR3N3
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 3 dff 0 22 =3L3eL8e6?1BmLmQ5:O6l3
+l17
+L16
+VmNha7394I8m[j4o4fK:=X1
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 Bn]El^R;oemPeI8MG8UCo2
+!i10b 1
+Eshiftn
+w1474460754
+R1
+R2
+R3
+Z12 8M:/student/inf3430/oblig1/oppg4/shiftn/shiftn.vhd
+Z13 FM:/student/inf3430/oblig1/oppg4/shiftn/shiftn.vhd
+l0
+L6
+V>Ko50jBI3aY0]DKTZkoP63
+R6
+32
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig1/oppg4/shiftn/shiftn.vhd|
+R10
+R11
+!s100 6Hk>EjNWoQQN?nMd<ASmS2
+!i10b 1
+!s108 1474461183.040000
+Z15 !s107 M:/student/inf3430/oblig1/oppg4/shiftn/shiftn.vhd|
+Artl
+R1
+R2
+DEx4 work 6 shiftn 0 22 >Ko50jBI3aY0]DKTZkoP63
+l33
+L19
+VGU:[e;eTdhXQC?_iW?=e00
+R6
+32
+R14
+R10
+R11
+w1474459806
+R15
+!s108 1474459888.443000
+!s100 BJo]cCa^bJch92WTT?[cQ3
+!i10b 1
+Etb_shiftn
+Z16 w1474461175
+R1
+R2
+R3
+Z17 8M:/student/inf3430/oblig1/oppg4/shiftn/tb_shiftn.vhd
+Z18 FM:/student/inf3430/oblig1/oppg4/shiftn/tb_shiftn.vhd
+l0
+L4
+VE@WX`ko5Wh8FK=JCdzf2`3
+!s100 XX@eT;BemRdWcOHWiB@FF2
+R6
+32
+!i10b 1
+!s108 1474461183.446000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig1/oppg4/shiftn/tb_shiftn.vhd|
+!s107 M:/student/inf3430/oblig1/oppg4/shiftn/tb_shiftn.vhd|
+R10
+R11
+Atb_shiftn
+R1
+R2
+DEx4 work 9 tb_shiftn 0 22 E@WX`ko5Wh8FK=JCdzf2`3
+l29
+L8
+VEj1VMjdFZbTYjI<aBo3>Z2
+R6
+32
+R19
+R10
+R11
+!s107 M:/student/inf3430/oblig1/oppg4/shiftn/tb_shiftn.vhd|
+!s108 1474460791.745000
+!s100 20F>1zhf187]BgJDhjbFc0
+!i10b 1

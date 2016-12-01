@@ -1,0 +1,25 @@
+M:/student/inf3430/oblig1/oppg4/shift32/shift32.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig1/oppg4/shift32/shift32.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shift32
+-- Compiling architecture rtl of shift32
+
+} {} {}} M:/student/inf3430/oblig1/oppg4/shift32/tb_shift32.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig1/oppg4/shift32/tb_shift32.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TB_shift32
+-- Compiling architecture tb_shift32 of TB_shift32
+
+} {} {}} M:/student/inf3430/oblig1/oppg4/shift32/dff.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig1/oppg4/shift32/dff.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dff
+-- Compiling architecture rtl of dff
+
+} {} {}}

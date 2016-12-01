@@ -1,0 +1,46 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Tue Nov 01 14:15:30 2016
+# Process ID: 12428
+# Log file: M:/student/inf3430/oblig4/Lab4_part1/Lab4_part1.runs/impl_1/Lab4_BD_wrapper.vdi
+# Journal file: M:/student/inf3430/oblig4/Lab4_part1/Lab4_part1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Lab4_BD_wrapper.tcl -notrace
+Command: open_checkpoint Lab4_BD_wrapper_routed.dcp
+INFO: [Netlist 29-17] Analyzing 23 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2015.2
+INFO: [Device 21-403] Loading part xc7z020clg484-1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Parsing XDC File [M:/student/inf3430/oblig4/Lab4_part1/Lab4_part1.runs/impl_1/.Xil/Vivado-12428-IFI-ULVERSTON/dcp/Lab4_BD_wrapper_early.xdc]
+Finished Parsing XDC File [M:/student/inf3430/oblig4/Lab4_part1/Lab4_part1.runs/impl_1/.Xil/Vivado-12428-IFI-ULVERSTON/dcp/Lab4_BD_wrapper_early.xdc]
+Reading XDEF placement.
+Reading placer database...
+Reading XDEF routing.
+Read XDEF File: Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.562 . Memory (MB): peak = 496.910 ; gain = 0.875
+Restored from archive | CPU: 1.000000 secs | Memory: 0.000000 MB |
+Finished XDEF File Restore: Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.578 . Memory (MB): peak = 496.910 ; gain = 0.875
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+INFO: [Project 1-484] Checkpoint was created with build 1266856
+open_checkpoint: Time (s): cpu = 00:00:05 ; elapsed = 00:00:11 . Memory (MB): peak = 496.910 ; gain = 303.820
+Attempting to get a license for feature 'Implementation' and/or device 'xc7z020'
+INFO: [Common 17-349] Got license for feature 'Implementation' and/or device 'xc7z020'
+Running DRC as a precondition to command write_bitstream
+INFO: [DRC 23-27] Running DRC with 2 threads
+INFO: [Vivado 12-3199] DRC finished with 0 Errors
+INFO: [Vivado 12-3200] Please refer to the DRC report (report_drc) for more information.
+Loading data files...
+Loading site data...
+Loading route data...
+Processing options...
+Creating bitmap...
+Creating bitstream...
+Writing bitstream ./Lab4_BD_wrapper.bit...
+INFO: [Vivado 12-1842] Bitgen Completed Successfully.
+INFO: [Common 17-83] Releasing license: Implementation
+write_bitstream: Time (s): cpu = 00:00:19 ; elapsed = 00:00:21 . Memory (MB): peak = 843.969 ; gain = 347.059
+INFO: [Common 17-206] Exiting Vivado at Tue Nov 01 14:16:10 2016...

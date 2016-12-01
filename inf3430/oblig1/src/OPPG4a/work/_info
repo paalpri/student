@@ -1,0 +1,110 @@
+m255
+K3
+13
+cModel Technology
+dC:\questasim64_10.1d\examples
+Edff
+Z0 w1473156900
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dM:\student\inf3430\oblig1\src\OPPG4a
+Z4 8M:/student/inf3430/oblig1/src/OPPG4a/dff.vhd
+Z5 FM:/student/inf3430/oblig1/src/OPPG4a/dff.vhd
+l0
+L5
+V=3L3eL8e6?1BmLmQ5:O6l3
+Z6 OL;C;10.1d;51
+32
+Z7 !s108 1474369995.547000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig1/src/OPPG4a/dff.vhd|
+Z9 !s107 M:/student/inf3430/oblig1/src/OPPG4a/dff.vhd|
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1
+!s100 H^EiD`dYF8L93UzbnmR3N3
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 3 dff 0 22 =3L3eL8e6?1BmLmQ5:O6l3
+l17
+L16
+VmNha7394I8m[j4o4fK:=X1
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 Bn]El^R;oemPeI8MG8UCo2
+!i10b 1
+Eshift8
+Z12 w1474369126
+R1
+R2
+R3
+Z13 8M:/student/inf3430/oblig1/src/OPPG4a/shift8.vhd
+Z14 FM:/student/inf3430/oblig1/src/OPPG4a/shift8.vhd
+l0
+L4
+VjgJ[BL0A_hIKBJ8L?5mHT3
+R6
+32
+Z15 !s108 1474369996.087000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig1/src/OPPG4a/shift8.vhd|
+Z17 !s107 M:/student/inf3430/oblig1/src/OPPG4a/shift8.vhd|
+R10
+R11
+!s100 _9i@9KP6X2]UlBTdmAEem1
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 6 shift8 0 22 jgJ[BL0A_hIKBJ8L?5mHT3
+l28
+L14
+VgL7dnP=9JKFA7c5cfGnK91
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 eFLeRB[PoZh`0_iW<_b[m3
+!i10b 1
+Etb_shift8
+Z18 w1474370050
+R1
+R2
+R3
+Z19 8M:/student/inf3430/oblig1/src/OPPG4a/tb_shift8.vhd
+Z20 FM:/student/inf3430/oblig1/src/OPPG4a/tb_shift8.vhd
+l0
+L4
+VdEHjYUaElLn47R]_YRP0a3
+!s100 VlW8lI3=CKm3=eVb18b_;1
+R6
+32
+!i10b 1
+Z21 !s108 1474370057.718000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig1/src/OPPG4a/tb_shift8.vhd|
+Z23 !s107 M:/student/inf3430/oblig1/src/OPPG4a/tb_shift8.vhd|
+R10
+R11
+Atestbench_8bit
+R1
+R2
+Z24 DEx4 work 9 tb_shift8 0 22 dEHjYUaElLn47R]_YRP0a3
+l28
+L8
+V>iPEoF@2<DLlMZmzT_U7G2
+!s100 O9ijJo:fM_TRnSjH0cm5z2
+R6
+32
+!i10b 1
+R21
+R22
+R23
+R10
+R11

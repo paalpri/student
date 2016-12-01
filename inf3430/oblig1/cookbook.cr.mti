@@ -1,0 +1,18 @@
+M:/student/inf3430/oblig1/src/first.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig1/src/first.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity FIRST
+-- Compiling architecture MY_FIRST_ARCH of FIRST
+
+} {} {}} M:/student/inf3430/oblig1/src/tb_first.vhd {1 {vcom -work work -2002 -explicit -novopt M:/student/inf3430/oblig1/src/tb_first.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TEST_FIRST
+-- Compiling architecture TESTBENCH of TEST_FIRST
+
+} {} {}}

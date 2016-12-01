@@ -1,0 +1,129 @@
+m255
+K3
+13
+cModel Technology
+dC:\questasim64_10.1d\examples
+Edff
+Z0 w1473156900
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dM:\student\inf3430\oblig1\oppg4\shift32
+Z4 8M:/student/inf3430/oblig1/oppg4/shift32/dff.vhd
+Z5 FM:/student/inf3430/oblig1/oppg4/shift32/dff.vhd
+l0
+L5
+V=3L3eL8e6?1BmLmQ5:O6l3
+Z6 OL;C;10.1d;51
+32
+Z7 !s108 1474455463.157000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig1/oppg4/shift32/dff.vhd|
+Z9 !s107 M:/student/inf3430/oblig1/oppg4/shift32/dff.vhd|
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1
+!s100 H^EiD`dYF8L93UzbnmR3N3
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 3 dff 0 22 =3L3eL8e6?1BmLmQ5:O6l3
+l17
+L16
+VmNha7394I8m[j4o4fK:=X1
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 Bn]El^R;oemPeI8MG8UCo2
+!i10b 1
+Eshift32
+Z12 w1474372498
+R1
+R2
+R3
+Z13 8M:/student/inf3430/oblig1/oppg4/shift32/shift32.vhd
+Z14 FM:/student/inf3430/oblig1/oppg4/shift32/shift32.vhd
+l0
+L6
+VPJ4[oF]m5djhCgB=G:Ufl0
+R6
+32
+Z15 !s108 1474455463.609000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig1/oppg4/shift32/shift32.vhd|
+Z17 !s107 M:/student/inf3430/oblig1/oppg4/shift32/shift32.vhd|
+R10
+R11
+!s100 P]VHdVY5ASiz?]4k`i8SP0
+!i10b 1
+Artl
+R1
+R2
+DEx4 work 7 shift32 0 22 PJ4[oF]m5djhCgB=G:Ufl0
+l30
+L16
+V0]W7H3h^zFW06Iz^E^A@a1
+!s100 >cmHiilOlPB_LjPikOAQn2
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!i10b 1
+Eshift8
+w1474371839
+R1
+R2
+R3
+R13
+R14
+l0
+L5
+VjgJ[BL0A_hIKBJ8L?5mHT3
+R6
+32
+R10
+R11
+R16
+R17
+!s100 ]UFUe^aDGKX[E4J@:o^R82
+!i10b 1
+!s108 1474372269.658000
+Etb_shift32
+Z18 w1474372260
+R1
+R2
+R3
+Z19 8M:/student/inf3430/oblig1/oppg4/shift32/tb_shift32.vhd
+Z20 FM:/student/inf3430/oblig1/oppg4/shift32/tb_shift32.vhd
+l0
+L4
+VP;A;::7K@Wb?^[G1`EHXb2
+!s100 6>lZMKNb@TG6[TQ?JZ1<_3
+R6
+32
+!i10b 1
+Z21 !s108 1474455464.093000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/student/inf3430/oblig1/oppg4/shift32/tb_shift32.vhd|
+Z23 !s107 M:/student/inf3430/oblig1/oppg4/shift32/tb_shift32.vhd|
+R10
+R11
+Atb_shift32
+R1
+R2
+Z24 DEx4 work 10 tb_shift32 0 22 P;A;::7K@Wb?^[G1`EHXb2
+l28
+L8
+Z25 VJX4R5]nBDHfV8l?JTLRj?3
+Z26 !s100 4o>`Zh]1kaAQa^z^LG@P;1
+R6
+32
+!i10b 1
+R21
+R22
+R23
+R10
+R11
