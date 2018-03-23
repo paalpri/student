@@ -1,4 +1,0 @@
-http://folk.uio.no/mathialo/kursnotater/inf2220_komp.pdf, side 49, innsttikk
-
-https://www.uio.no/studier/emner/matnat/ifi/INF3430/h16/jn/inf3430-4431_eksamensoppgaver-2005-2015.pdf side 278 selvsjekkende testbenk
-
